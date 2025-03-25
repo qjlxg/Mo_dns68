@@ -1425,7 +1425,7 @@ def collect_airport(
             if count == 0:
                 return []
 
-            pages = range(count, -1, -10)
+            pages = range(count, -1, -500)
             page_num = min(page_num, len(pages))
             logger.info(f"[TelegramCrawl] starting crawl from telegram, channel: {channel}, pages: {page_num}")
 
