@@ -1,2 +1,1 @@
-https://sa1.sub-nthu.com/api/v1/client/subscribe?token=ef6d90a2ed23ad5bdd0aa929d01284d1
-https://ch.vfkum.website/api/v1/client/subscribe?token=28a6a95c4a3ac78d5149a8f10985a35a
+
